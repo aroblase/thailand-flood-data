@@ -1,5 +1,7 @@
 # Bangkok and Thailand Flood Risk Data, 2011-2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23260465.svg)](https://doi.org/10.5281/zenodo.23260465)
+
 Flood data for Bangkok and Thailand compiled and cleaned by [ThaiFloodRisk.com](https://thaifloodrisk.com/en), from official Thai sources (Bangkok Metropolitan Administration, GISTDA) and open datasets. Free to reuse under [CC BY 4.0](LICENSE).
 
 The interactive versions of these tables (maps, district reports, address checker) are on [thaifloodrisk.com](https://thaifloodrisk.com/en). The files are also available on the [open data page](https://thaifloodrisk.com/en/open-data), which always has the latest version.
@@ -59,7 +61,7 @@ The original sources keep their own terms. The compilation, cleaning and scores 
 
 ## How to cite
 
-> ThaiFloodRisk.com (2026). Bangkok and Thailand Flood Risk Data 2011-2026. https://thaifloodrisk.com/en/open-data. CC BY 4.0.
+> ThaiFloodRisk.com (2026). Bangkok and Thailand Flood Risk Data 2011-2026 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23260465. CC BY 4.0.
 
 ## Contact
 

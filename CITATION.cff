@@ -5,6 +5,7 @@ title: "Bangkok and Thailand Flood Risk Data 2011-2026"
 authors:
   - name: "ThaiFloodRisk.com"
     website: "https://thaifloodrisk.com/en"
+doi: 10.5281/zenodo.23260465
 url: "https://thaifloodrisk.com/en/open-data"
 repository-code: "https://github.com/aroblase/thailand-flood-data"
 license: CC-BY-4.0
