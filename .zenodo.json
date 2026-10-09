@@ -1,0 +1,12 @@
+{
+  "title": "Bangkok and Thailand Flood Risk Data 2011-2026",
+  "upload_type": "dataset",
+  "description": "<p>Flood data for Bangkok and Thailand compiled and cleaned by <a href=\"https://thaifloodrisk.com/en\">ThaiFloodRisk.com</a> from official Thai sources (Bangkok Metropolitan Administration, GISTDA) and open datasets, as CSV files: every standing-water episode recorded by the BMA on Bangkok's main roads from October 2021 to October 2026 (1,762 episodes) with totals by district and the most flooded roads; the share of each Bangkok district and sub-district mapped under water in 2011; flood risk indicators for 189 rail stations and 85 districts, cities and destinations; and the share of days with flooded roads by forecast rain.</p><p>Latest version and interactive maps: <a href=\"https://thaifloodrisk.com/en/open-data\">https://thaifloodrisk.com/en/open-data</a>. Methodology: <a href=\"https://thaifloodrisk.com/en/methodology\">https://thaifloodrisk.com/en/methodology</a>.</p>",
+  "creators": [{ "name": "ThaiFloodRisk.com" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["flood", "Bangkok", "Thailand", "GISTDA", "street flooding", "flood risk", "open data"],
+  "related_identifiers": [
+    { "identifier": "https://thaifloodrisk.com/en/open-data", "relation": "isSupplementTo" }
+  ]
+}
