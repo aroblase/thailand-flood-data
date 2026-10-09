@@ -1,0 +1,51 @@
+﻿slug,district,district_th,episodes,episodes_2021,episodes_2022,episodes_2023,episodes_2024,episodes_2025,episodes_2026,days,max_height_cm,median_duration_min
+bangkok-phra-nakhon,Phra Nakhon,พระนคร,13,0,2,2,1,4,4,12,30,35
+bangkok-dusit,Dusit,ดุสิต,8,0,3,2,0,3,0,5,25,83
+bangkok-nong-chok,Nong Chok,หนองจอก,0,0,0,0,0,0,0,0,,
+bangkok-bang-rak,Bang Rak,บางรัก,23,0,1,5,3,7,7,20,30,80
+bangkok-bang-khen,Bang Khen,บางเขน,70,0,9,7,5,31,18,42,25,85
+bangkok-bang-kapi,Bang Kapi,บางกะปิ,67,4,3,1,0,44,15,21,30,105
+bangkok-pathum-wan,Pathum Wan,ปทุมวัน,18,0,2,2,3,7,4,9,30,95
+bangkok-pom-prap-sattru-phai,Pom Prap Sattru Phai,ป้อมปราบศัตรูพ่าย,6,0,0,1,1,2,2,6,20,88
+bangkok-phra-khanong,Phra Khanong,พระโขนง,21,0,2,2,4,9,4,18,20,110
+bangkok-min-buri,Min Buri,มีนบุรี,10,0,0,0,2,4,4,7,20,95
+bangkok-lat-krabang,Lat Krabang,ลาดกระบัง,58,0,3,3,5,30,17,33,25,140
+bangkok-yannawa,Yannawa,ยานนาวา,8,0,3,0,1,2,2,8,30,55
+bangkok-samphanthawong,Samphanthawong,สัมพันธวงศ์,10,0,1,0,3,6,0,5,20,58
+bangkok-phaya-thai,Phaya Thai,พญาไท,48,0,12,13,1,17,5,21,35,85
+bangkok-thon-buri,Thon Buri,ธนบุรี,1,0,1,0,0,0,0,1,30,20
+bangkok-yai,Bangkok Yai,บางกอกใหญ่,1,0,0,0,0,1,0,1,10,25
+bangkok-huai-khwang,Huai Khwang,ห้วยขวาง,43,0,2,4,3,25,9,25,25,140
+bangkok-khlong-san,Khlong San,คลองสาน,10,0,0,4,1,5,0,9,20,68
+bangkok-taling-chan,Taling Chan,ตลิ่งชัน,7,0,0,5,1,0,1,5,30,85
+bangkok-noi,Bangkok Noi,บางกอกน้อย,8,0,4,1,1,1,1,8,20,75
+bangkok-bang-khun-thian,Bang Khun Thian,บางขุนเทียน,30,0,4,1,0,10,15,20,25,135
+bangkok-phasi-charoen,Phasi Charoen,ภาษีเจริญ,15,0,1,3,0,7,4,9,20,45
+bangkok-nong-khaem,Nong Khaem,หนองแขม,3,0,2,0,0,0,1,3,25,205
+bangkok-rat-burana,Rat Burana,ราษฎร์บูรณะ,1,0,0,0,1,0,0,1,15,35
+bangkok-bang-phlat,Bang Phlat,บางพลัด,2,0,0,1,1,0,0,2,15,40
+bangkok-din-daeng,Din Daeng,ดินแดง,131,4,31,19,16,41,20,53,45,80
+bangkok-bung-kum,Bung Kum,บึงกุ่ม,78,3,7,3,8,37,20,36,30,80
+bangkok-sathorn,Sathorn,สาทร,66,2,24,8,7,19,6,31,31,80
+bangkok-bang-sue,Bang Sue,บางซื่อ,9,0,3,3,2,0,1,9,25,85
+bangkok-chatuchak,Chatuchak,จตุจักร,108,5,13,15,16,32,27,40,50,93
+bangkok-bang-kho-laem,Bang Kho Laem,บางคอแหลม,7,0,0,0,1,2,4,6,20,78
+bangkok-prawet,Prawet,ประเวศ,50,0,5,2,4,29,10,29,25,115
+bangkok-khlong-toei,Khlong Toei,คลองเตย,103,0,31,27,20,17,8,40,40,90
+bangkok-suan-luang,Suan Luang,สวนหลวง,64,1,15,16,8,16,8,34,30,100
+bangkok-chom-thong,Chom Thong,จอมทอง,7,0,1,1,2,2,1,7,15,85
+bangkok-don-mueang,Don Mueang,ดอนเมือง,21,0,0,0,2,18,1,16,20,408
+bangkok-ratchathewi,Ratchathewi,ราชเทวี,150,0,44,29,12,29,36,43,40,60
+bangkok-lat-phrao,Lat Phrao,ลาดพร้าว,58,0,1,2,0,31,24,24,20,145
+bangkok-watthana,Watthana,วัฒนา,95,2,43,14,18,15,3,49,50,85
+bangkok-bang-khae,Bang Khae,บางแค,37,0,8,9,10,8,2,18,30,70
+bangkok-lak-si,Lak Si,หลักสี่,107,1,21,21,23,29,12,50,30,75
+bangkok-sai-mai,Sai Mai,สายไหม,47,0,1,4,15,20,7,36,40,50
+bangkok-khan-na-yao,Khan Na Yao,คันนายาว,2,0,0,0,0,2,0,2,15,55
+bangkok-saphan-sung,Saphan Sung,สะพานสูง,0,0,0,0,0,0,0,0,,
+bangkok-wang-thonglang,Wang Thonglang,วังทองหลาง,56,2,4,5,1,31,13,35,30,130
+bangkok-khlong-sam-wa,Khlong Sam Wa,คลองสามวา,1,0,0,0,0,0,1,1,20,180
+bangkok-bang-na,Bang Na,บางนา,50,0,10,8,8,20,4,28,50,158
+bangkok-thawi-watthana,Thawi Watthana,ทวีวัฒนา,0,0,0,0,0,0,0,0,,
+bangkok-thung-khru,Thung Khru,ทุ่งครุ,1,0,0,0,0,0,1,1,20,
+bangkok-bang-bon,Bang Bon,บางบอน,33,0,7,3,3,15,5,18,30,60

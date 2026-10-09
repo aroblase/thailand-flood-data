@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Bangkok and Thailand Flood Risk Data 2011-2026"
+authors:
+  - name: "ThaiFloodRisk.com"
+    website: "https://thaifloodrisk.com/en"
+url: "https://thaifloodrisk.com/en/open-data"
+repository-code: "https://github.com/aroblase/thailand-flood-data"
+license: CC-BY-4.0
+date-released: 2026-10-09
+keywords:
+  - flood
+  - Bangkok
+  - Thailand
+  - GISTDA
+  - open data

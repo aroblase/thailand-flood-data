@@ -1,0 +1,6 @@
+﻿forecast_rain_min_mm,forecast_rain_max_mm,days,days_with_flooded_roads,share_with_flooded_roads,days_with_10_or_more_places
+0,1,734,9,0.012,1
+1,5,396,47,0.119,4
+5,10,298,64,0.215,11
+10,20,220,77,0.35,22
+20,,85,46,0.541,20

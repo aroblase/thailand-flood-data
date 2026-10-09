@@ -1,0 +1,190 @@
+﻿station_en,station_th,wikidata,lines,lat,lon,flood_risk_score,elevation_m,ground_elevation_lidar_m,gistda_flooded_years,gistda_years_covered,nearest_waterway_m,subdistrict,district
+11th Infantry Regiment,กรมทหารราบที่ 11,Q96096780,BTS Sukhumvit Line,13.867521,100.591982,29,8,1.47,1,14,529,Anusawari,Bang Khen
+Ari,อารีย์,Q6149301,BTS Sukhumvit Line,13.779702777,100.544641666,20,16,0.52,1,14,1066,Sam Sen Nai,Phaya Thai
+Asok,อโศก,Q4924120,BTS Sukhumvit Line,13.73703333,100.56041944,21,14,0.43,0,14,297,Khlong Toei Nuea,Watthana
+Ban Thap Chang,บ้านทับช้าง,Q6895675,Airport Rail Link,13.732849,100.69071,43,3,1.15,1,14,316,Prawet,Prawet
+Bang Bua,บางบัว,Q96075530,BTS Sukhumvit Line,13.856152,100.58513,35,7,1.16,1,14,240,Lat Yao,Chatuchak
+Bang Chak,บางจาก,Q6633183,BTS Sukhumvit Line,13.696013888,100.6057,24,4,0.25,0,14,321,Bang Chak,Phra Khanong
+Bang Chan,บางชัน,Q123537787,MRT Pink Line,13.8125,100.702777777,66,2,0.41,2,14,274,Min Buri,Min Buri
+Bang Kapi,บางกะปิ,Q119723016,MRT Yellow Line,13.76908,100.63977,46,5,0.46,1,14,40,Khlong Chan,Bang Kapi
+Bang Khae,บางแค,Q19794085,MRT Blue Line,13.711944444,100.422222222,29,8,1.05,1,14,393,Bang Khae Nuea,Bang Khae
+Bang Khen,บางเขน,Q6633329,SRT Dark Red Line,13.8493659,100.5616724,31,12,1.92,1,14,134,Lat Yao,Chatuchak
+Bang Khun Non,บางขุนนนท์,Q66372327,MRT Blue Line,13.7637311,100.4736677,31,11,2.2,1,14,284,Bang Khun Non,Bangkok Noi
+Bang Kraso,บางกระสอ,Q13021840,MRT Purple Line,13.86175,100.504361111,38,6,,2,14,322,Bang Kraso,Mueang Nonthaburi
+Bang Na,บางนา,Q6633173,BTS Sukhumvit Line,13.668075,100.604658333,39,3,0.17,0,14,176,Bang Na,Bang Na
+Bang O,บางอ้อ,Q95770065,MRT Blue Line,13.799224,100.510007,40,10,,1,14,71,Bang O,Bang Phlat
+Bang Phai,บางไผ่,Q66091152,MRT Blue Line,13.724527777,100.465055555,35,7,1.13,1,14,232,Pak Khlong Phasi Charoen,Phasi Charoen
+Bang Phlat,บางพลัด,Q95770449,MRT Blue Line,13.792477,100.504943,35,6,,1,14,148,Bang O,Bang Phlat
+Bang Phlu,บางพลู,Q13021635,MRT Purple Line,13.8758,100.4339,44,5,,2,14,352,Bang Rak Yai,Bang Bua Thong
+Bang Pho,บางโพ,Q95769171,MRT Blue Line,13.806327,100.521041,35,10,1.07,1,14,137,Bang Sue,Bang Su
+Bang Rak Noi Tha It,บางรักน้อยท่าอิฐ,Q73813625,MRT Purple Line,13.874743,100.456001,41,5,,1,14,147,Bang Rak Noi,Mueang Nonthaburi
+Bang Rak Yai,บางรักใหญ่,Q16307495,MRT Purple Line,13.8768,100.447,44,6,,2,14,139,Bang Rak Yai,Bang Bua Thong
+Bang Son,บางซ่อน,Q13021632,MRT Purple Line,13.820388888,100.532444444,35,10,1.15,1,14,205,Bang Sue,Bang Su
+Bang Sue,บางซื่อ,Q4384431,MRT Blue Line,13.8024,100.541,35,4,1.69,1,14,558,Lat Yao,Chatuchak
+Bang Wa,บางหว้า,Q18162596,BTS Silom Line,13.7206,100.458,62,2,1.69,1,14,29,Pak Khlong Phasi Charoen,Phasi Charoen
+Bang Wa,บางหว้า,Q66091132,MRT Blue Line,13.720138888,100.457027777,40,7,1.28,1,14,85,Bang Wa,Phasi Charoen
+Bang Yi Khan,บางยี่ขัน,Q66372347,MRT Blue Line,13.7774636,100.4853349,31,13,,1,14,263,Bang Bamru,Bang Phlat
+Bearing,แบริ่ง,Q6633805,BTS Sukhumvit Line,13.659336111,100.60105,13,10,0.55,0,14,1095,Samrong Nuea,Mueang Samut Prakan
+Bhumibol Adulyadej Hospital,โรงพยาบาลภูมิพลอดุลยเดช,Q104211764,BTS Sukhumvit Line,13.910670573,100.61743863,29,8,1.41,1,14,732,Si Kan,Don Mueang
+Chaeng Watthana - Pak Kret 28,แจ้งวัฒนะ-ปากเกร็ด 28,Q123537277,MRT Pink Line,13.904166666,100.529166666,34,16,,2,14,516,Pak Kret,Pak Kret
+Chaeng Watthana 14,แจ้งวัฒนะ 14,Q123537372,MRT Pink Line,13.893055555,100.56,35,10,2.34,1,14,238,Thung Song Hong,Lak Si
+Chang Erawan,พิพิธภัณฑ์ช้างเอราวัณ,Q13021646,BTS Sukhumvit Line,13.621611111,100.590027777,25,6,,0,14,262,Mueang Samut Prakan,Mueang Samut Prakan
+Charan 13,จรัญฯ 13,Q66088546,MRT Blue Line,13.740096,100.470729,40,6,1.55,1,14,60,Wat Tha Phra,Bangkok Yai
+Charoen Nakhon,เจริญนคร,Q104212231,Gold Line,13.72637981,100.509039705,36,11,1.36,1,14,80,Khlong Ton Sai,Khlong San
+Chatuchak,จตุจักร,Q108596671,SRT Dark Red Line,13.82662,100.54948,41,4,1.58,1,14,167,Lat Yao,Chatuchak
+Chatuchak Park,สวนจตุจักร,Q6633742,MRT Blue Line,13.8027,100.554,29,9,0.56,1,14,758,Lat Yao,Chatuchak
+Chit Lom,ชิดลม,Q6633149,BTS Sukhumvit Line,13.744108333,100.543097222,21,17,,0,14,264,Lumphini,Pathum Wan
+Chok Chai 4,โชคชัย 4,Q108004772,MRT Yellow Line,13.794520427,100.594367143,29,10,1.17,1,14,546,Wang Thonglang,Wang Thong Lang
+Chong Nonsi,ช่องนนทรี,Q1030199,BTS Silom Line,13.723786111,100.529444444,30,9,,0,14,12,Suriyawong,Bang Rak
+Don Mueang,ดอนเมือง,Q35596136,SRT Dark Red Line,13.914688,100.5978685,35,7,1.97,1,14,184,Si Kan,Don Mueang
+Ekkamai,เอกมัย,Q4919536,BTS Sukhumvit Line,13.719558333,100.585175,29,9,0.33,1,14,469,Phra Khanong Nuea,Watthana
+Fai Chai,ไฟฉาย,Q66087746,MRT Blue Line,13.755555555,100.469166666,40,7,2.22,1,14,24,Bang Khun Si,Bangkok Noi
+Government Complex,ศูนย์ราชการเฉลิมพระเกียรติ,Q123537386,MRT Pink Line,13.890555555,100.567222222,29,7,2.1,1,14,480,Thung Song Hong,Lak Si
+Ha Yaek Lat Phrao,ห้าแยกลาดพร้าว,Q16307668,BTS Sukhumvit Line,13.816555555,100.562,25,13,0.69,1,14,601,Lat Yao,Chatuchak
+Hua Lamphong,หัวลำโพง,Q13021858,MRT Blue Line,13.7373,100.518,25,8,,0,14,246,Rong Mueang,Pathum Wan
+Hua Mak,หัวหมาก,Q6633722,Airport Rail Link,13.73806,100.645501111,46,5,0.96,1,14,38,Suan Luang,Suan Luang
+Hua Mak,หัวหมาก,Q109130566,MRT Yellow Line,13.738055555,100.645555555,46,5,0.98,1,14,43,Suan Luang,Suan Luang
+Huai Khwang,ห้วยขวาง,Q13021853,MRT Blue Line,13.7786,100.574,47,2,0.77,0,14,214,Huai Khwang,Huai Khwang
+Impact Muang Thong Thani,อิมแพ็ค เมืองทองธานี,Q123537775,MRT Pink Line,13.910833333,100.544166666,46,8,,4,14,378,Ban Mai,Pak Kret
+Itsaraphap,อิสรภาพ,Q25537502,MRT Blue Line,13.738333333,100.485833333,35,6,1.77,1,14,157,Wat Tha Phra,Bangkok Yai
+Kalantan,กลันตัน,Q119010700,MRT Yellow Line,13.72527,100.64179,46,4,0.59,1,14,86,Suan Luang,Suan Luang
+Kamphaeng Phet,กำแพงเพชร,Q13590884,MRT Blue Line,13.7977,100.548,35,6,1.14,1,14,126,Lat Yao,Chatuchak
+Kan Kheha,การเคหะ,Q107751653,SRT Dark Red Line,13.898524777,100.588903813,41,5,2.24,1,14,172,Si Kan,Don Mueang
+Kasetsart University,มหาวิทยาลัยเกษตรศาสตร์,Q76973081,BTS Sukhumvit Line,13.842068,100.576858,24,6,0.78,1,14,1032,Lat Yao,Chatuchak
+Khae Rai,แคราย,Q16307698,MRT Pink Line,13.8625,100.520555555,38,6,,2,14,585,Bang Kraso,Mueang Nonthaburi
+Kheha,เคหะฯ,Q59764824,BTS Sukhumvit Line,13.567693888,100.607693888,36,5,,0,14,46,Thai Ban,Mueang Samut Prakan
+Khlong Bang Phai,คลองบางไผ่,Q15379154,MRT Purple Line,13.892336111,100.408261111,46,7,,3,14,385,Bang Rak Phatthana,Bang Bua Thong
+Khlong San,คลองสาน,Q104212244,Gold Line,13.730366995,100.507734056,40,10,1.03,1,14,12,Somdet Chao Phraya,Khlong San
+Khlong Toei,คลองเตย,Q4920172,MRT Blue Line,13.7224,100.554,35,5,0.9,1,14,683,Khlong Toei,Khlong Toei
+Khu Bon,คู้บอน,Q123537783,MRT Pink Line,13.845,100.65,49,8,1.86,2,14,14,Khan Na Yao,Khanna Yao
+Khu Khot,คูคต,Q66103267,BTS Sukhumvit Line,13.93225,100.6465,41,5,,1,14,129,Khu Khot,Lam Luk Ka
+Krung Thep Aphiwat Central Terminal,กลางกรุงเทพอภิวัฒน์,Q23925684,MRT Blue Line; SRT Light Red Line; SRT Dark Red Line,13.805,100.54166667,35,4,2.82,1,14,425,Lat Yao,Chatuchak
+Krung Thon Buri,กรุงธนบุรี,Q11299499,BTS Silom Line; Gold Line,13.720927777,100.502694444,40,8,1.76,1,14,56,Khlong Ton Sai,Khlong San
+Lak Hok (Rangsit University),หลักหก,Q100631366,SRT Dark Red Line,13.965857,100.605337,58,3,,2,14,295,Lak Hok,Mueang Pathum Thani
+Lak Si,หลักสี่,Q13021854,SRT Dark Red Line,13.886334,100.581915,35,8,2.39,1,14,142,Talat Bang Khen,Lak Si
+Lak Si,หลักสี่,Q6633446,MRT Pink Line,13.884053,100.582656,29,9,1.24,1,14,332,Talat Bang Khen,Lak Si
+Lak Song,หลักสอง,Q13021860,MRT Blue Line,13.710843888,100.40949,35,5,0.77,1,14,472,Bang Khae,Bang Khae
+Lake Muang Thong Thani,ทะเลสาบเมืองทองธานี,Q123537776,MRT Pink Line,13.918333333,100.545555555,68,2,,4,14,717,Ban Mai,Pak Kret
+Lat Krabang,ลาดกระบัง,Q15283201,Airport Rail Link,13.727777777,100.748416666,51,2,0.97,1,14,404,Lat Krabang,Lat Krabang
+Lat Phrao,ลาดพร้าว,Q4923372,MRT Blue Line,13.8064,100.573,29,6,0.74,1,14,623,Lat Yao,Chatuchak
+Lat Phrao 101,ลาดพร้าว 101,Q119726019,MRT Yellow Line,13.77464,100.62985,31,11,0.33,1,14,153,Khlong Chan,Bang Kapi
+Lat Phrao 71,ลาดพร้าว 71,Q119723265,MRT Yellow Line,13.7871,100.60758,40,9,0.79,1,14,37,Wang Thonglang,Wang Thong Lang
+Lat Phrao 83,ลาดพร้าว 83,Q119723213,MRT Yellow Line,13.78371,100.61366,46,5,0.49,1,14,30,Wang Thonglang,Wang Thong Lang
+Lat Pla Khao,ลาดปลาเค้า,Q123537777,MRT Pink Line,13.8625,100.617777777,35,5,1.8,1,14,458,Anusawari,Bang Khen
+Lumphini,ลุมพินี,Q4923316,MRT Blue Line,13.7256,100.546,41,5,0.98,1,14,224,Thung Maha Mek,Sa Thon
+Mahat Thai,มหาดไทย,Q119723149,MRT Yellow Line,13.77838,100.62317,25,11,0.6,1,14,484,Wang Thonglang,Wang Thong Lang
+Maiyalap,มัยลาภ,Q123537780,MRT Pink Line,13.855,100.631944444,49,9,1.89,2,14,81,Tha Raeng,Bang Khen
+Makkasan,มักกะสัน,Q11340409,Airport Rail Link,13.751,100.5613,18,8,0.78,0,14,316,Thanon Phetchaburi,Rat Thewi
+Min Buri,มีนบุรี,Q123537773,MRT Pink Line,13.808333333,100.7325,78,-2,1.18,2,14,186,Min Buri,Min Buri
+Min Buri Market,ตลาดมีนบุรี,Q123537788,MRT Pink Line,13.8125,100.725555555,83,0,0.9,2,14,95,Min Buri,Min Buri
+Ministry of Public Health,กระทรวงสาธารณสุข,Q96418970,MRT Purple Line,13.84833,100.51483,31,11,,1,14,189,Talat Khwan,Mueang Nonthaburi
+Mo Chit,หมอชิต,Q873641,BTS Sukhumvit Line,13.802583,100.553833,29,10,0.47,1,14,743,Lat Yao,Chatuchak
+Muang Thong Thani,เมืองทองธานี,Q123537334,MRT Pink Line,13.897222222,100.548333333,58,3,,2,14,193,Bang Talat,Pak Kret
+Nana,นานา,Q6633167,BTS Sukhumvit Line,13.740602777,100.555397222,14,19,,0,14,462,Khlong Toei Nuea,Watthana
+National Stadium,สนามกีฬาแห่งชาติ,Q1030167,BTS Silom Line,13.746513888,100.529108333,14,14,,0,14,316,Wang Mai,Pathum Wan
+National Telecom,โทรคมนาคมแห่งชาติ,Q123537477,MRT Pink Line,13.8875,100.575555555,41,5,1.46,1,14,190,Thung Song Hong,Lak Si
+Nonthaburi Civic Center,ศูนย์ราชการนนทบุรี,Q25106308,MRT Purple Line; MRT Pink Line,13.860138888,100.513111111,55,5,,2,14,30,Bang Kraso,Mueang Nonthaburi
+Nopparat,นพรัตน์,Q123537786,MRT Pink Line,13.816388888,100.685277777,55,5,1.24,2,14,98,Khan Na Yao,Khanna Yao
+On Nut,อ่อนนุช,Q1028755,BTS Sukhumvit Line,13.70561111,100.60108333,31,11,0.14,1,14,261,Phra Khanong Nuea,Watthana
+Outer Ring Road-Ram Inthra,วงแหวนรามอินทรา,Q123537785,MRT Pink Line,13.824444444,100.676944444,55,5,1.65,2,14,39,Khan Na Yao,Khanna Yao
+Pak Kret Bypass,เลี่ยงเมืองปากเกร็ด,Q123537262,MRT Pink Line,13.906388888,100.515555555,38,6,,2,14,512,Pak Kret,Pak Kret
+Pak Nam,ปากน้ำ,Q60034220,BTS Sukhumvit Line,13.602333333,100.597027777,25,6,,0,14,108,Mueang Samut Prakan,Mueang Samut Prakan
+Phahon Yothin,พหลโยธิน,Q4919752,MRT Blue Line,13.8129,100.562,35,5,1.33,1,14,562,Lat Yao,Chatuchak
+Phahon Yothin 24,พหลโยธิน 24,Q13021643,BTS Sukhumvit Line,13.822972222,100.565722222,29,8,0.96,1,14,696,Lat Yao,Chatuchak
+Phahon Yothin 59,พหลโยธิน 59,Q104211602,BTS Sukhumvit Line,13.882514638,100.600885269,35,8,1.61,1,14,154,Anusawari,Bang Khen
+Phasi Charoen,ภาษีเจริญ,Q13021653,MRT Blue Line,13.712777777,100.434305555,35,6,0.77,1,14,228,Bang Wa,Phasi Charoen
+Phawana,ภาวนา,Q16307526,MRT Yellow Line,13.800186983,100.584159126,35,7,0.79,1,14,215,Sam Sen Nok,Huai Khwang
+Phaya Thai,พญาไท,Q15139351,BTS Sukhumvit Line,13.756941666,100.533844444,14,15,,0,14,642,Thung Phaya Thai,Rat Thewi
+Phaya Thai Airport Link,พญาไท,Q13021649,Airport Rail Link,13.75673,100.53492,14,14,,0,14,586,Thanon Phaya Thai,Rat Thewi
+Phet Kasem 48,เพชรเกษม 48,Q16307680,MRT Blue Line,13.715416666,100.445416666,46,4,0.9,1,14,75,Bang Wa,Phasi Charoen
+Phetchaburi,เพชรบุรี,Q4921013,MRT Blue Line,13.7491,100.563,21,12,0.57,0,14,142,Thanon Phetchaburi,Rat Thewi
+Phloen Chit,เพลินจิต,Q4921113,BTS Sukhumvit Line,13.743080555,100.549019444,21,15,,0,14,192,Lumphini,Pathum Wan
+Pho Nimit,โพธิ์นิมิตร,Q18388309,BTS Silom Line,13.71916667,100.48591667,40,10,2.02,1,14,35,Bang Yi Ruea,Thon Buri
+Phra Khanong,พระโขนง,Q4924738,BTS Sukhumvit Line,13.715194444,100.591283333,25,11,0.08,1,14,390,Phra Khanong Nuea,Watthana
+Phra Nang Klao Bridge,สะพานพระนั่งเกล้า (สายฉลองรัชธรรม),Q96419170,MRT Purple Line,13.87027,100.48012,49,8,,2,14,84,Bang Kraso,Mueang Nonthaburi
+Phra Ram 9,พระราม 9,Q1036857,MRT Blue Line,13.75722222,100.56527778,35,9,0.72,1,14,130,Din Daeng,Din Daeng
+Phraek Sa,แพรกษา,Q60034142,BTS Sukhumvit Line,13.584361111,100.607805555,36,4,,0,14,58,Mueang Samut Prakan,Mueang Samut Prakan
+Phrom Phong,พร้อมพงษ์,Q1028691,BTS Sukhumvit Line,13.730438888,100.569730555,14,18,0.26,0,14,802,Khlong Tan,Khlong Toei
+Pradiphat,ประดิพัทธ์,Q25104550,SRT Light Red Line; SRT Dark Red Line,13.792861111,100.535388888,40,6,1.66,1,14,54,Thanon Nakhon Chai Si,Dusit
+Pu Chao,ปู่เจ้า,Q59779848,BTS Sukhumvit Line,13.637527777,100.592,13,7,,0,14,1025,Thepharak,Mueang Samut Prakan
+Punnawithi,ปุณณวิถี,Q6633186,BTS Sukhumvit Line,13.68891944,100.60921111,18,8,0.16,0,14,446,Bang Chak,Phra Khanong
+Queen Sirikit National Convention Center,ศูนย์การประชุมแห่งชาติสิริกิติ์,Q4921067,MRT Blue Line,13.7231,100.56,40,7,1.31,1,14,57,Khlong Toei,Khlong Toei
+Rajabhat Phranakhon,ราชภัฎพระนคร,Q16307599,MRT Pink Line,13.879388888,100.590194444,31,12,1.63,1,14,220,Anusawari,Bang Khen
+Ram Inthra 3,รามอินทรา 3,Q123537774,MRT Pink Line,13.870833333,100.6025,35,7,1.44,1,14,201,Anusawari,Bang Khen
+Ram Inthra Kor Mor 4,รามอินทรา กม.4,Q123537779,MRT Pink Line,13.858333333,100.626111111,35,8,1.8,1,14,222,Anusawari,Bang Khen
+Ram Inthra Kor Mor 6,รามอินทรา กม.6,Q123537782,MRT Pink Line,13.845,100.650277777,49,9,1.99,2,14,15,Khan Na Yao,Khanna Yao
+Ram Inthra Kor Mor 9,รามอินทรา กม.9,Q123537784,MRT Pink Line,13.833611111,100.6675,44,10,1.68,2,14,110,Khan Na Yao,Khanna Yao
+Ramkhamhaeng,รามคำแหง,Q6633628,Airport Rail Link,13.7429,100.6,35,9,1.54,1,14,135,Suan Luang,Suan Luang
+Rangsit,รังสิต,Q6633383,SRT Dark Red Line,13.98972222,100.6022222,35,5,,1,14,318,Bang Phun,Mueang Pathum Thani
+Ratchada-Lat Phrao,รัชดา-ลาดพร้าว,Q110724551,MRT Yellow Line,13.807,100.57479,29,6,0.73,1,14,632,Lat Yao,Chatuchak
+Ratchadamri,ราชดำริ,Q1030185,BTS Silom Line,13.73919167,100.53940833,14,20,,0,14,308,Lumphini,Pathum Wan
+Ratchadaphisek,รัชดาภิเษก,Q4924317,MRT Blue Line,13.7991,100.575,35,6,0.98,1,14,191,Sam Sen Nok,Huai Khwang
+Ratchaprarop,ราชปรารภ,Q6633462,Airport Rail Link,13.7548,100.543,18,8,,0,14,632,Thanon Phetchaburi,Rat Thewi
+Ratchathewi,ราชเทวี,Q6633184,BTS Sukhumvit Line,13.751875,100.531575,21,16,,0,14,298,Makkasan,Rat Thewi
+Ratchawithi,ราชวิถี,Q23308257,SRT Light Red Line; SRT Dark Red Line,13.770232,100.526336,30,6,,0,14,32,Thung Phaya Thai,Rat Thewi
+Ratchayothin,รัชโยธิน,Q76972519,BTS Sukhumvit Line,13.829921,100.569767,29,6,0.78,1,14,729,Lat Yao,Chatuchak
+Royal Forest Department,กรมป่าไม้,Q96096835,BTS Sukhumvit Line,13.850475,100.581793,29,7,1.29,1,14,653,Lat Yao,Chatuchak
+Royal Irrigation Department,กรมชลประทาน,Q123537197,MRT Pink Line,13.898611111,100.506944444,44,4,,2,14,749,Bang Talat,Pak Kret
+Royal Thai Air Force Museum,พิพิธภัณฑ์กองทัพอากาศ,Q104211775,BTS Sukhumvit Line,13.9178865,100.621726445,38,7,1.86,2,14,952,Khlong Thanon,Sai Mai
+Royal Thai Naval Academy,โรงเรียนนายเรือ,Q60034232,BTS Sukhumvit Line,13.608194444,100.595,24,4,,0,14,485,Mueang Samut Prakan,Mueang Samut Prakan
+Sai Luat,สายลวด,Q60034123,BTS Sukhumvit Line,13.577583333,100.605305555,44,3,,0,14,53,Mueang Samut Prakan,Mueang Samut Prakan
+Sai Ma,ไทรม้า,Q13021885,MRT Purple Line,13.8705,100.4666,44,8,,2,14,180,Sai Ma,Mueang Nonthaburi
+Sai Yud,สายหยุด,Q104211647,BTS Sukhumvit Line,13.888368043,100.604275581,35,10,1.46,1,14,130,Anusawari,Bang Khen
+Saint Louis,เซนต์หลุยส์,Q13021839,BTS Silom Line,13.721063288,100.5271168,46,4,,1,14,11,Yan Nawa,Sa Thon
+Sala Daeng,ศาลาแดง,Q13021833,BTS Silom Line,13.728508333,100.534133333,14,22,,0,14,319,Bang Rak,Bang Rak
+Sam Sen,สามเสน,Q25104548,SRT Light Red Line; SRT Dark Red Line,13.7796,100.53,29,7,,1,14,322,Sam Sen Nai,Phaya Thai
+Sam Yaek Bang Yai,สามแยกบางใหญ่,Q25106306,MRT Purple Line,13.874805555,100.4195,46,7,,3,14,495,Bang Rak Phatthana,Bang Bua Thong
+Sam Yan,สามย่าน,Q1039683,MRT Blue Line,13.7323,100.529,25,8,,0,14,194,Si Lom,Bang Rak
+Sam Yot,สามยอด,Q61359058,MRT Blue Line,13.74725,100.501333333,36,13,1.6,1,14,85,Wang Burapha Phirom,Phra Nakhon
+Samakkhi,สามัคคี,Q13021845,MRT Pink Line,13.8868,100.512,44,8,,2,14,291,Tha Sai,Mueang Nonthaburi
+Samrong,สำโรง,Q13021846,BTS Sukhumvit Line; MRT Yellow Line,13.646938,100.595829,25,6,,0,14,120,Thepharak,Mueang Samut Prakan
+Sanam Bin Nam,สนามบินน้ำ,Q13021842,MRT Pink Line,13.8771,100.515,38,6,,2,14,525,Tha Sai,Mueang Nonthaburi
+Sanam Chai,สนามไชย,Q19794088,MRT Blue Line,13.743864,100.494675,35,9,,1,14,107,Wang Burapha Phirom,Phra Nakhon
+Sanam Pao,สนามเป้า,Q4922512,BTS Sukhumvit Line,13.77262222,100.54209167,25,14,,1,14,568,Sam Sen Nai,Phaya Thai
+Saphan Khwai,สะพานควาย,Q873690,BTS Sukhumvit Line,13.7938,100.549730555,31,13,0.61,1,14,269,Sam Sen Nai,Phaya Thai
+Saphan Mai,สะพานใหม่,Q104211663,BTS Sukhumvit Line,13.896689572,100.609197102,40,12,1.58,2,14,112,Khlong Thanon,Sai Mai
+Saphan Taksin,สะพานตากสิน,Q1021944,BTS Silom Line,13.718775,100.514106,36,15,1.4,1,14,6,Yan Nawa,Sa Thon
+Sena Nikhom,เสนานิคม,Q76973119,BTS Sukhumvit Line,13.836557,100.573629,20,11,0.84,1,14,1147,Lat Yao,Chatuchak
+Setthabutbamphen,เศรษฐบุตรบำเพ็ญ,Q123470968,MRT Pink Line,13.8125,100.702777777,66,2,0.41,2,14,274,Min Buri,Min Buri
+Si Bearing,ศรีแบริ่ง,Q119009970,MRT Yellow Line,13.6435,100.63626,31,4,,0,14,178,Samrong Nuea,Mueang Samut Prakan
+Si Dan,ศรีด่าน,Q119009914,MRT Yellow Line,13.6331,100.63011,31,5,,0,14,130,Samrong Nuea,Mueang Samut Prakan
+Si Iam,ศรีเอี่ยม,Q119010057,MRT Yellow Line,13.66769,100.64508,39,3,0.43,0,14,127,Bang Na,Bang Na
+Si Kritha,ศรีกรีฑา,Q119722574,MRT Yellow Line,13.75041,100.64479,35,4,0.13,1,14,422,Hua Mak,Bang Kapi
+Si La Salle,ศรีลาซาล,Q119010023,MRT Yellow Line,13.65499,100.64216,18,7,0.56,0,14,572,Bang Na,Bang Na
+Si Lom,สีลม,Q1036816,MRT Blue Line,13.72882752,100.5377984,52,2,,0,14,87,Suriyawong,Bang Rak
+Si Nut,ศรีนุช,Q119010548,MRT Yellow Line,13.7111,100.6442,35,7,0.57,1,14,278,Suan Luang,Suan Luang
+Si Rat,ศรีรัช,Q16307483,MRT Pink Line,13.900555555,100.54,29,7,,1,14,646,Khlong Kluea,Pak Kret
+Si Thepha,ศรีเทพา,Q119009797,MRT Yellow Line,13.62985,100.6227,25,7,,0,14,203,Thepharak,Mueang Samut Prakan
+Si Udom,ศรีอุดม,Q119010086,MRT Yellow Line,13.67663,100.64618,24,4,0.96,0,14,532,Nong Bon,Prawet
+Siam,สยาม,Q1016037,BTS Silom Line; BTS Sukhumvit Line,13.745619,100.534228,21,17,,0,14,160,Pathum Wan,Pathum Wan
+Sirindhorn,สิรินธร,Q83555413,MRT Blue Line,13.784143,100.493746,40,7,,1,14,70,Bang Bamru,Bang Phlat
+Siriraj,ศิริราช,Q16307650,SRT Light Red Line,13.760694444,100.485055555,40,7,,1,14,48,Siri Rat,Bangkok Noi
+Srinagarindra,ศรีนครินทร์,Q60034186,BTS Sukhumvit Line,13.592,100.608972222,36,5,,0,14,8,Mueang Samut Prakan,Mueang Samut Prakan
+Srinagarindra 38,ศรีนครินทร์ 38,Q119010493,MRT Yellow Line,13.70112,100.64647,59,-1,0.56,0,14,162,Nong Bon,Prawet
+Suan Luang Rama IX,สวนหลวง ร.9,Q119010410,MRT Yellow Line,13.69084,100.64711,40,2,0.56,0,14,621,Nong Bon,Prawet
+Sukhumvit,สุขุมวิท,Q1036841,MRT Blue Line,13.7376,100.561,25,8,0.75,0,14,251,Khlong Toei Nuea,Watthana
+Surasak,สุรศักดิ์,Q1030152,BTS Silom Line,13.7192,100.521,36,16,1.01,1,14,6,Yan Nawa,Sa Thon
+Sutthisan,สุทธิสาร,Q4923841,MRT Blue Line,13.79,100.574,41,4,1.13,1,14,140,Din Daeng,Din Daeng
+Suvarnabhumi,สุวรรณภูมิ,Q6633190,Airport Rail Link,13.69416667,100.7511111,51,2,,1,14,592,Nong Prue,Bang Phli
+Talad Bang Yai,ตลาดบางใหญ่,Q25103860,MRT Purple Line,13.881166666,100.409222222,46,9,,3,14,316,Bang Rak Phatthana,Bang Bua Thong
+Talat Phlu,ตลาดพลู,Q18393239,BTS Silom Line,13.7142,100.477,46,5,1.28,1,14,51,Bukkhalo,Thon Buri
+Tao Pun,เตาปูน,Q13021868,MRT Blue Line; MRT Purple Line,13.80615,100.530823888,35,9,0.87,1,14,114,Bang Sue,Bang Su
+Tha Phra,ท่าพระ,Q13021620,MRT Blue Line,13.729380555,100.474211111,31,12,1.96,1,14,250,Wat Tha Phra,Bangkok Yai
+Thailand Cultural Centre,ศูนย์วัฒนธรรมแห่งประเทศไทย,Q6633637,MRT Blue Line,13.7661,100.57,65,1,0.63,1,14,114,Din Daeng,Din Daeng
+Thipphawan,ทิพวัล,Q119009751,MRT Yellow Line,13.63674,100.6099,30,7,,0,14,38,Thepharak,Mueang Samut Prakan
+Thong Lo,ทองหล่อ,Q4924220,BTS Sukhumvit Line,13.7242,100.579,31,11,0.49,1,14,297,Khlong Tan Nuea,Watthana
+Thung Song Hong,ทุ่งสองห้อง,Q100635380,SRT Dark Red Line,13.859954,100.567454,49,3,2.24,1,14,129,Talat Bang Khen,Lak Si
+Udom Suk,อุดมสุข,Q13021857,BTS Sukhumvit Line,13.6803,100.61,18,9,0.18,0,14,333,Bang Na,Bang Na
+Vacharaphol,วัชรพล,Q123537781,MRT Pink Line,13.849166666,100.642777777,38,8,1.79,2,14,454,Tha Raeng,Bang Khen
+Victory Monument,อนุสาวรีย์ชัยสมรภูมิ,Q4919845,BTS Sukhumvit Line,13.762744,100.537086,14,12,,0,14,405,Thung Phaya Thai,Rat Thewi
+Wat Mangkon,วัดมังกรกมลาวาส,Q13021830,MRT Blue Line,13.742,100.510027777,25,17,,1,14,621,Samphanthawong,Samphanthawong
+Wat Phra Si Mahathat,วัดพระศรีมหาธาตุ,Q61357968,BTS Sukhumvit Line; MRT Pink Line,13.875916666,100.59625,29,7,1.5,1,14,772,Anusawari,Bang Khen
+Wat Samian Nari,วัดเสมียนนารี,Q108596711,SRT Dark Red Line,13.84159,100.55749,65,1,2.04,1,14,139,Lat Yao,Chatuchak
+Wong Sawang,วงศ์สว่าง,Q13021812,MRT Purple Line,13.829972222,100.526444444,35,10,1.35,1,14,103,Bang Sue,Bang Su
+Wongwian Yai,วงเวียนใหญ่,Q13021824,BTS Silom Line,13.7211,100.495,54,3,1.93,1,14,11,Khlong Ton Sai,Khlong San
+Wutthakat,วุฒากาศ,Q13021838,BTS Silom Line,13.7123,100.471,35,6,1.43,1,14,103,Talat Phlu,Thon Buri
+Yaek Kor Por Aor,แยก คปอ.,Q104211805,BTS Sukhumvit Line,13.924903023,100.625887459,38,7,1.82,2,14,936,Sai Mai,Sai Mai
+Yaek Lam Sali,แยกลำสาลี,Q119722811,MRT Yellow Line,13.76182,100.64557,35,8,0.13,1,14,160,Hua Mak,Bang Kapi
+Yaek Nonthaburi 1,แยกนนทบุรี 1,Q73811536,MRT Purple Line,13.865916666,100.494361111,44,7,,2,14,226,Bang Kraso,Mueang Nonthaburi
+Yaek Pak Kret,แยกปากเกร็ด,Q123537238,MRT Pink Line,13.906111111,100.505277777,44,5,,2,14,397,Pak Kret,Pak Kret
+Yaek Tiwanon,แยกติวานนท์,Q19794082,MRT Purple Line,13.839583333,100.515083333,35,7,,1,14,237,Bang Khen,Mueang Nonthaburi
